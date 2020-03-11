@@ -9,9 +9,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CouponAppApplication {
 
 	public static void main(String[] args) {
-		System.out.println("第一次修改，我再提交就冲突了aaa");
-		System.out.println("第一次修改，我再提交就冲突了bbb");
-		System.out.println("第一次修改,我在这修改会冲突");
+		System.out.println("第一次修改，我再提交就冲突了aaa1");
+		System.out.println("第一次修改，我再提交就冲突了bbb1");
+		System.out.println("第一次修改,我在这修改会冲突1");
 		SpringApplication.run(CouponAppApplication.class, args);
 	}
 
