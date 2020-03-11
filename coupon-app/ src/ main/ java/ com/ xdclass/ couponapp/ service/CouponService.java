@@ -20,7 +20,8 @@ public class CouponService {
 
 
     public String query(){
-        System.out.println("git添加11111111111");
+        System.out.println("git添加");
+        System.out.println("git添加第二次");
         TCouponExample example = new TCouponExample();
         example.createCriteria().andCodeEqualTo("0057da3c-f2ad-42bd-b6d2-8bb58b6dbc90");
         List<TCoupon> tCoupon =  tCouponMapper.selectByExample(example);
