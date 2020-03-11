@@ -27,6 +27,7 @@ public class CouponAppApplicationTests {
 
     @Test
     public void contextLoads() {
+        System.out.println("11111111111");
         couponService.print();
         System.err.println("hello world");
     }
