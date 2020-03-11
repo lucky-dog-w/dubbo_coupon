@@ -10,6 +10,7 @@ public class CouponAppApplication {
 
 	public static void main(String[] args) {
 		System.out.println("第一次修改，我再提交就冲突了");
+		System.out.println("第一次修改,我在这修改会冲突");
 		SpringApplication.run(CouponAppApplication.class, args);
 	}
 
