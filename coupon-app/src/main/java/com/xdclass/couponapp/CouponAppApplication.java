@@ -10,8 +10,8 @@ public class CouponAppApplication {
 
 	public static void main(String[] args) {
 		System.out.println("第一次修改，我再提交就冲突了aaa1222");
-		System.out.println("第一次修改，我再提交就冲突了bbddb1222");
-		System.out.println("第一次修改,我在这修改会冲突1222");
+		System.out.println("第一次修改dd，我再提交就冲突了bbddb1222");
+		System.out.println("第一次修改dddd,我在这修改会冲突1222");
 		SpringApplication.run(CouponAppApplication.class, args);
 	}
 
