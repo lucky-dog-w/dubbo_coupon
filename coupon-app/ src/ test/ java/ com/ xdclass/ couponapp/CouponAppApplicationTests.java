@@ -28,6 +28,8 @@ public class CouponAppApplicationTests {
     @Test
     public void contextLoads() {
         System.out.println("11111111111");
+       System.out.println("第一次修改，我再提交就冲突了aaaccccccccccccccc");
+
         couponService.print();
         System.err.println("hello world");
     }
